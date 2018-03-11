@@ -1,0 +1,5 @@
+E:\C#\PraticeClass\ModelLibrary\bin\Debug\ModelLibrary.dll
+E:\C#\PraticeClass\ModelLibrary\bin\Debug\ModelLibrary.pdb
+E:\C#\PraticeClass\ModelLibrary\obj\Debug\ModelLibrary.csprojResolveAssemblyReference.cache
+E:\C#\PraticeClass\ModelLibrary\obj\Debug\ModelLibrary.dll
+E:\C#\PraticeClass\ModelLibrary\obj\Debug\ModelLibrary.pdb

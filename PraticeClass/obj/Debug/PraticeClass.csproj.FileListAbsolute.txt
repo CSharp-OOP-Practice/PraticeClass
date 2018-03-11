@@ -1,0 +1,11 @@
+E:\C#\PraticeClass\PraticeClass\bin\Debug\PraticeClass.exe.config
+E:\C#\PraticeClass\PraticeClass\bin\Debug\PraticeClass.exe
+E:\C#\PraticeClass\PraticeClass\bin\Debug\PraticeClass.pdb
+E:\C#\PraticeClass\PraticeClass\obj\Debug\PraticeClass.csprojResolveAssemblyReference.cache
+E:\C#\PraticeClass\PraticeClass\obj\Debug\PraticeClass.exe
+E:\C#\PraticeClass\PraticeClass\obj\Debug\PraticeClass.pdb
+E:\C#\PraticeClass\PraticeClass\bin\Debug\ModelLibrary.dll
+E:\C#\PraticeClass\PraticeClass\bin\Debug\ModelLibrary.pdb
+E:\C#\課程OOP\PraticeClass\PraticeClass\bin\Debug\PraticeClass.exe.config
+E:\C#\課程OOP\PraticeClass\PraticeClass\obj\Debug\PraticeClass.exe
+E:\C#\課程OOP\PraticeClass\PraticeClass\obj\Debug\PraticeClass.pdb
